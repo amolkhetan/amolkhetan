@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 💻 My Skill Set :  
+## 💻 Skills Acquired :  
 <table><tr><td valign="top" width="60%">
 
 ###     Tech Stack  
